@@ -1,0 +1,22 @@
+REACT COMPONENTS
+		Don’t touch DOM .
+		Build websites like lego blocks;
+		Unidirectional Data Flow.
+		UI , Rest s upto you .
+dede
+
+To Become a best react developer 
+	Decide in components
+	Decide the state and where it lives
+	What changes when state changes.
+
+
+Imperative Approach and Declarative Approach
+
+Imperative Approach 
+		In this Approach ,we directly manipulate DOM.
+
+
+Declarative Approach 
+		in Declarative Approach  we don’t touch DOM
+		
